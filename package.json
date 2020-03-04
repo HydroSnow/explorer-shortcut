@@ -1,0 +1,18 @@
+{
+  "name": "explorer-shortcut",
+  "main": "./lib/explorer-shortcut",
+  "version": "0.0.0",
+  "description": "Keyboard shortcut for Show in Explorer.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "explorer-shortcut:go"
+  },
+  "repository": "https://github.com/HydroSnow/explorer-shortcut",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
